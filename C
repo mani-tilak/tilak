@@ -1,1 +1,2 @@
 yum install git <F4>y
+exec bash
